@@ -1,0 +1,13 @@
+
+É
+java:S1186'"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©”ìîúÿÿÿÿ8âå±íñ1J$e9e49762-bb64-4a0d-bcd3-e797d5ab18f0
+S
+java:S1854""6Remove this useless assignment to local variable "id".(Àˆ´ò8‘ôïÕö1
+j
+java:S1481""'Remove this unused "id" local variable.(Àˆ´ò8”ôïÕö1J$a26a2a72-4191-48b3-951a-91cd91f393d6
+y
+java:S1128"7Remove this unused import 'javafx.scene.control.Alert'.(ÊÇê:8Ã²êîõ1J$14219be1-8973-466e-b4e4-2240b931f6cb
+€
+java:S1128"8Remove this unused import 'lk.acpt.demofx.dto.PhoneDto'.(¼Š±ğùÿÿÿÿ8™ôïÕö1J$08ccc7bd-572d-43f0-8da0-5ec48faeaa63
+h
+java:S1128	"%Remove this unused import 'java.sql'.(´İ…Å8™ôïÕö1J$b0447086-b0f9-43a2-9216-d09acc632b55

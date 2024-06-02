@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.palexdev.materialfx.controls.MFXButton?>
+<?import io.github.palexdev.materialfx.controls.MFXTextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="lk.acpt.demofx.MaterialTestController">
+   <children>
+      <MFXButton layoutX="197.0" layoutY="97.0" style="-fx-background-color: green;" text="Login" textFill="WHITE" />
+      <MFXTextField layoutX="153.0" layoutY="245.0" prefHeight="10.0" prefWidth="244.0" />
+   </children>
+</AnchorPane>

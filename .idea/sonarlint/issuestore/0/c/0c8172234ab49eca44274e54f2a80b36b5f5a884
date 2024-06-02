@@ -1,0 +1,46 @@
+
+	java:S112*"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‡×ù”ü1J$2656fbb1-878e-48da-9f6e-a9859020d432
+	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‡×ù”ü1J$fb4b0838-df0c-4805-90ae-c18ea1f94b9a
+	java:S112P"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‡×ù”ü1J$d2d75d05-c4a1-4c8f-83ef-a070e7afd68a
+	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‡×ù”ü1J$e09bf147-47f9-4059-a0d6-7f978a188990
+	java:S112n"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‡×ù”ü1J$73dad809-e493-4821-8775-81a8f9b5ec8e
+	java:S112p"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8‡×ù”ü1J$b5211bbc-6c9f-433f-b12c-d8e6e200af9d
+¸
+java:S1319V"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(›‰¶­ûÿÿÿÿ8‰×ù”ü1J$cde9b1c7-3870-4794-bfbd-9eafedf67ef1
+·
+java:S1319t"oThe type of "orderDetailDtos" should be an interface such as "List" rather than the implementation "ArrayList".(§± ùÿÿÿÿ8‰×ù”ü1J$03060ffc-fce9-4a38-afb5-c443d4c9cca2
+¯
+java:S1488¥"fImmediately return this expression instead of assigning it to the temporary variable "sessionFactory".(Ö…¯Şùÿÿÿÿ8‹×ù”ü1J$c6f183f9-8c50-4bea-bdb8-ec9a5de919ed
+”
+java:S2259"LA "NullPointerException" could be thrown; "sessionFactory" is nullable here.(´Ï‚‘ùÿÿÿÿ8Œ¾µ•ü1J$2b92b670-858b-4887-9c6b-d366deaa7e35
+—
+java:S2095>"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ù’Ößúÿÿÿÿ8Ú×ù”ü1J$b18a281e-4ecf-4670-a8ce-4dabb51fc354
+’
+java:S2095_"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÔÄ²‰8Û×ù”ü1J$847cd94d-e7a4-4e0b-9861-32e5a110ba9f
+
+java:S2095;"HUse try-with-resources or close this "Connection" in a "finally" clause.(¯àøÿÿÿÿ8Ú×ù”ü1J$18ccac92-0d84-4069-801e-57f64a127c30
+
+java:S2095\"HUse try-with-resources or close this "Connection" in a "finally" clause.(¯àøÿÿÿÿ8Ú×ù”ü1J$17fe2a09-4083-4d5c-8bc0-86a6ed84023b
+“
+java:S2095„"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ÄàìØ8Û×ù”ü1J$0154fb99-2ab6-4cd4-874f-6b312a1cb53e
+’
+java:S2095{"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¢ËŸ8Ú×ù”ü1J$30190ecb-b7f5-47ab-8805-dcf6f5b9e38a
+É
+java:S11860"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(À´øÿÿÿÿÿ8ß×ù”ü1J$65cdadf2-b566-4a79-af70-b4342176f9fa
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(Õå½êúÿÿÿÿ8á×ù”ü1J$3a8a6ae3-879f-411c-b43c-783726ec21ca
+m
+java:S1172&"*Remove this unused method parameter "pid".(ó¶8å×ù”ü1J$78302dbe-d799-4e1d-bfc1-e76d2f9d890d
+‡
+java:S2147+"DCombine this catch with the one at line 41, which has the same body.(ıàÑÎ8æ×ù”ü1J$af975452-d24b-4c6a-9003-7043465e611b
+‡
+java:S2147Q"DCombine this catch with the one at line 79, which has the same body.(É®£8ê×ù”ü1J$7bd75b68-f73b-44c9-9920-973c0c9d1d9a
+~
+java:S6437;"6Revoke and change this password, as it is compromised.(¯àøÿÿÿÿ8ë×ù”ü1J$65fee6fa-3d10-48b4-acd0-8cc6ff611d00
+ˆ
+java:S2147o"ECombine this catch with the one at line 109, which has the same body.(É®£8ï×ù”ü1J$a040ee4d-21be-4dc6-8206-4ccf217c50bb
+~
+java:S6437\"6Revoke and change this password, as it is compromised.(¯àøÿÿÿÿ8ï×ù”ü1J$4dc7b3f7-04be-47d8-9e82-01106f7ba4fc
+_
+java:S3626"Remove this redundant jump.(ÉŠ©ƒ8ò×ù”ü1J$0bf81b18-c959-4b5d-adf1-98f70a911498
+s	java:S106«"+Replace this use of System.out by a logger.(¨¶ÑÍşÿÿÿÿ8ƒæµ•ü1J$a77dbdec-f416-4358-9f74-06563db6a0a9
